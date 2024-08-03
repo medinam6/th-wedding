@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.initials {
+  width: '100%';
+  text-align: center;
+  margin: 100;
+}
